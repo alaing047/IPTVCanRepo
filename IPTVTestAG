@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 ,404 Stingray Greatest Hits (1080p)
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:-1 ,LCN
+#EXTINF:-1 , LCN
 https://list.iptvcat.com/my_list/s/b7699cbfb51dd1fdf303896c5d2d8443.m3u8
-#EXTINF:-1 ,RDI
+#EXTINF:-1 , RDI
 https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8
-#EXTINF:-1 ,TVA
+#EXTINF:-1 , TVA
 https://list.iptvcat.com/my_list/s/5571894015c28efd9daaae081e416bfa.m3u8
-#EXTINF:-1 ,Radio Canada Montréal
+#EXTINF:-1 , Radio Canada Montréal
 https://list.iptvcat.com/my_list/s/2925e7231d36882aca4e4cd1f2872f39.m3u8
-#EXTINF:-1 ,TVA Sports
+#EXTINF:-1 , TVA Sports
 https://list.iptvcat.com/my_list/s/918959fd3bc497a5e7bff60e4f1ec252.m3u8
 #EXTINF:-1 ,TVA Sports 2
