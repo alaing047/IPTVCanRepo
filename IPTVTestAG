@@ -4,9 +4,8 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 #EXTINF:-1 tvg-id="Le Canal Nouvelles TVA" tvg-name="LCN" tvg-country="CA" tvg-language="French" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lcn_ca.png" group-title="News",LCN
 https://list.iptvcat.com/my_list/s/b7699cbfb51dd1fdf303896c5d2d8443.m3u8
 #EXTINF:-1 tvg-id="ICI RDI" tvg-name="RDI" tvg-country="CA" tvg-language="French" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-rdi-ca.png" group-title="News",RDI
-https://list.iptvcat.com/my_list/s/b7699cbfb51dd1fdf303896c5d2d8443.m3u8
 https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8
-#EXTINF:-1 TVA
+#EXTINF:-1 tvg-id="TVA Montréal" tvg-name="TVA" tvg-country="CA" tvg-language="French" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tva-ca.png" group-title="Generalist",TVA
 https://list.iptvcat.com/my_list/s/5571894015c28efd9daaae081e416bfa.m3u8
 #EXTINF:-1 Radio Canada Montréal
 https://list.iptvcat.com/my_list/s/2925e7231d36882aca4e4cd1f2872f39.m3u8
