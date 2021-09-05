@@ -1,4 +1,4 @@
-#EXTVLCOPT:http-user-agent=vlc
+
 #EXTM3U
 #EXTINF:-1 tvg-id="Le Canal Nouvelles TVA" tvg-name="LCN" tvg-country="CA" tvg-language="French" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lcn_ca.png" group-title="News",LCN
 https://list.iptvcat.com/my_list/s/b7699cbfb51dd1fdf303896c5d2d8443.m3u8
